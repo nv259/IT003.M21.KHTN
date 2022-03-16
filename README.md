@@ -9,3 +9,5 @@ Thực nghiệm các thuật toán sắp xếp, bao gồm **Quicksort, Heapsort,
 Được code qua hệ điều hành linux nên sẽ có thể xuất hiện một số lỗi do sự khác biệt so với windows (và do máy yếu nữa ☹).
 
 # Start at Sun, 3-13-2022
+
+# OS: Kali GNU/Linux Rolling - 4GB RAM
